@@ -6,11 +6,11 @@ The script allows you to send and receive any data using client-server connectio
 
 Receiving side runs the script in the **server** mode, sending side uses the **client** mode.
 
-If the sript is run in the server mode, there are required parameters:
+If the script is run in the server mode, there are required parameters:
 * port - a port to listen to
 * file - a filename for recevied data
 
-If the sript is run in the client mode, there are required parameters:
+If the script is run in the client mode, there are required parameters:
 * host - a hostname of a server
 * port - a port to connect to (should be the same as the server port)
 * file - a filename of data to send
