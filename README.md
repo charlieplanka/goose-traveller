@@ -24,3 +24,8 @@ goose-traveller.py client --host=localhost --port=5000 --file=domestic_goose.jpg
 ```
 
 Server side runs the script first.
+
+## :baby_chick: Planned improvements 
+1. Super-duper GUI.
+2. Authentication.
+3. Traffic encryption. If some fraudster intercepts the sent file, he won't be able to understand that it's a goose.
